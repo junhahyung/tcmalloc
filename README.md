@@ -1,6 +1,9 @@
 # tcmalloc
 c implementation of tcmalloc by Junha Hyung (original implementation from Google)
 
+## about tcmalloc
+http://goog-perftools.sourceforge.net/doc/tcmalloc.html
+
 ## How to compile
 for testing : gcc -pthread tc_malloc.c test_main.c
 for using in other code : include tcmalloc_api.h
