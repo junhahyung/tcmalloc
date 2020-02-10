@@ -1,2 +1,2 @@
 # tcmalloc
-implementing Google's tcmalloc - highly efficient malloc for multi-threaded systems
+c implementation of tcmalloc by Junha Hyung (original implementation from Google)
